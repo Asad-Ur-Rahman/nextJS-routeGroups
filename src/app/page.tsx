@@ -4,7 +4,7 @@ import Link from 'next/link';
 export default function Home() {
   return (
     <div>
-      Hello and Welcome I am worked on links in this project
+      Hello and Welcome I am worked on group links in this project
       <br />
       This is Home page
 
